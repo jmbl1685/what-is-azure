@@ -1,16 +1,11 @@
-# Gulp Server Autoreload
+# Example
 
-> Servidor con configuraciones básicas para pruebas en el FRONTEND con Gulp (Autoreload)
+This project was generated with Gulp 3.9.1
 
-## Configuraciones
+## Used Packages
 
-``` bash
-# configuracion del host y el puerto de ejecución del proyecto
+* [aos.js](http://michalsnik.github.io/aos/) - Animate On Scroll Library
+* [smoothscroll.js](http://iamdustan.com/smoothscroll/) - Scroll Behavior
+* [hover.css](http://ianlunn.github.io/Hover/) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on.
+* [flexboxgrid.css](http://flexboxgrid.com/) - A grid system based on the flex display property.
 
-const config = {
-  host: 'localhost',
-  port: 3001
-}
-```
-
-Gulp [sitio oficial](https://gulpjs.com/)
