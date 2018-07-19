@@ -1,0 +1,16 @@
+{
+  "name": "example-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [],
+  "author": "Juan Batty<jmbl1685@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-server-livereload": "^1.9.2"
+  }
+}
